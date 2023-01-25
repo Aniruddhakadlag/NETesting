@@ -7,6 +7,13 @@ public class Demo2
 		System.out.println("Hello GIT");
 		
 		
+		
+		
+	}
+	
+	public void m1()
+	{
+		System.out.println("Hello ");
 	}
 
 }
