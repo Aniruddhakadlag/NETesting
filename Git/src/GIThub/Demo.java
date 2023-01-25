@@ -7,6 +7,11 @@ public class Demo {
 		{
 			System.out.println("Demo GIT");
 		}
+		public void m3()
+			{
+			System.out.println("Demo GIT");
+		}
+
 
 	}
 
