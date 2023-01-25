@@ -15,5 +15,8 @@ public class Demo {
 			{
 			System.out.println("Demo GIT");
 		}
-
+public void m4()
+			{
+			System.out.println("Hello");
+		}
 }
